@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Sacramento&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #ffe5ec 0%, #ffc2d1 100%);
+  color: #594a4e;
+  min-height: 100vh;
+}
+
+.font-script {
+  font-family: 'Sacramento', cursive;
+}
